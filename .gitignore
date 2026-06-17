@@ -15,6 +15,7 @@ Server/
 # Executables (don't commit generated exe)
 *.exe
 !steamcmd/steamcmd.exe
+!dist/SCUMServerManager.exe
 
 # IDE
 .vscode/

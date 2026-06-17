@@ -109,7 +109,7 @@ To build your own executable:
 
 ```bash
 pip install pyinstaller
-pyinstaller --onefile --windowed --name "SCUMServerManager" runServerV3.py
+pyinstaller --onefile --windowed --name "SCUMServerManager" runServer.py
 ```
 
 The compiled executable will be in the `dist/` folder.
