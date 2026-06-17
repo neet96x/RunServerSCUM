@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# PyInstaller
+build/
+*.spec
+
+# Config & Data
+config_cli.ini
+backup_*/
+Server/
+
+# Executables (don't commit generated exe)
+*.exe
+!steamcmd/steamcmd.exe
+
+# IDE
+.vscode/
+.idea/
