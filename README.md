@@ -41,15 +41,7 @@ python runServerV3.py
 
 ### Main Dashboard
 
-![Main Dashboard](docs/screenshots/dashboard.png)
-
-### Server Running (Online)
-
-![Server Online](docs/screenshots/server-online.png)
-
-### Server Offline
-
-![Server Offline](docs/screenshots/server-offline.png)
+![Main Dashboard](runServer.png)
 
 ## Configuration
 
