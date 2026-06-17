@@ -13,6 +13,10 @@ A Python-based GUI application for managing SCUM dedicated servers on Windows. F
 - **Backup System** — Backup mods, configs, and save files with one click
 - **SteamCMD Integration** — Built-in SteamCMD for automatic game updates
 
+## RCON Server
+
+This project uses [SCUM-RCON](https://github.com/herbie96x/SCUM-RCON) as the RCON server component for remote administration and communication with the SCUM game server.
+
 ## Prerequisites
 
 - **Windows 10/11** (64-bit)
