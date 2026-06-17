@@ -41,7 +41,19 @@ python runServerV3.py
 
 ### Main Dashboard
 
-![Main Dashboard](runServer.png)
+![Main Dashboard](docs/screenshots/server-online.png)
+
+### Server Running (Online)
+
+![Server Online](docs/screenshots/server-online.png)
+
+### Server Offline
+
+![Server Offline](docs/screenshots/server-offline.png)
+
+### Discord Notification
+
+![Discord Online](docs/screenshots/discord-online.png)
 
 ## Configuration
 
